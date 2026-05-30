@@ -1,0 +1,6 @@
+{
+  "name": "Factory Production Optimizer",
+  "description": "Optimize factory production based on time and profitability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
